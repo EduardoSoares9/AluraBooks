@@ -1,2 +1,2 @@
 # AluraBooks
-Criando projeto com a Alura.
+Projeto responsivo para celulares, tablets e desktop.
